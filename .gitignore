@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project related 
+TTS/
+v0.7.1_pip/
+yourtts_models/
+yourtts_out/
+MyTTSDataset/
