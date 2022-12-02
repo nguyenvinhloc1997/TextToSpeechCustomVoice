@@ -134,3 +134,9 @@ v0.7.1_pip/
 yourtts_models/
 yourtts_out/
 MyTTSDataset/
+TTS_train/
+py38tts/
+MyTTSDataset
+*.swp
+VITS_MODEL_LJSPEECH/
+*.wav
