@@ -140,3 +140,6 @@ MyTTSDataset
 *.swp
 VITS_MODEL_LJSPEECH/
 *.wav
+YourTTS_models/
+tts_models*
+Ref_*
